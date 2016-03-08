@@ -20,4 +20,7 @@
       "Slim\\": "src/"
     }
   }
+  "scripts": {
+    "test": []
+  }
 }
