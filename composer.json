@@ -14,5 +14,10 @@
   ],
   "require": {
     "mobiledetect/mobiledetectlib": "^2.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "SlimMobileDetect": "src/"
+    }
   }
 }
