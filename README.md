@@ -1,5 +1,7 @@
 # Slim\_Mobile\_Detect
 
+[![Join the chat at https://gitter.im/zguillez/slim_mobile_detect](https://badges.gitter.im/zguillez/slim_mobile_detect.svg)](https://gitter.im/zguillez/slim_mobile_detect?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](http://img.shields.io/travis/zguillez/slim_mobile_detect.svg)](https://travis-ci.org/zguillez/slim_mobile_detect)
 [![Code Climate](http://img.shields.io/codeclimate/github/zguillez/slim_mobile_detect.svg)](https://travis-ci.org/zguillez/slim_mobile_detect)
 [![Dependency Status](https://gemnasium.com/zguillez/slim_mobile_detect.svg)](https://gemnasium.com/zguillez/slim_mobile_detect)
