@@ -1,7 +1,6 @@
 # Slim\_Mobile\_Detect
 
 [![Dependency Status](https://gemnasium.com/zguillez/slim_mobile_detect.svg)](https://gemnasium.com/zguillez/slim_mobile_detect)
-[![Installs](https://img.shields.io/npm/dt/slim_mobile_detect.svg)](https://coveralls.io/r/zguillez/slim_mobile_detect)
 ![](https://reposs.herokuapp.com/?path=zguillez/slim_mobile_detect)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 [![Analytics](https://ga-beacon.appspot.com/UA-1125217-30/zguillez/slim_mobile_detect?pixel)](https://github.com/igrigorik/ga-beacon)
