@@ -1,0 +1,1 @@
+Slim_Mobile_Detect

@@ -1,0 +1,6 @@
+{
+  "require": {
+    "slim/slim": "^3.0",
+    "zguillez/slim_mobile_detect": "^1.0.0"
+  }
+}
