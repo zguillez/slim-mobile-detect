@@ -1,8 +1,7 @@
 # Slim\_Mobile\_Detect
 
-[![npm version](https://badge.fury.io/js/slim_mobile_detect.svg)](https://badge.fury.io/js/slim_mobile_detect)
-[![Build Status](http://img.shields.io/travis/zguillez/slim_mobile_detect.svg)](https://github.com/zguillez/slim_mobile_detect)
-[![Code Climate](http://img.shields.io/codeclimate/github/zguillez/slim_mobile_detect.svg)](https://codeclimate.com/github/zguillez/slim_mobile_detect)
+[![Build Status](http://img.shields.io/travis/zguillez/slim_mobile_detect.svg)](https://travis-ci.org/zguillez/slim_mobile_detect)
+[![Code Climate](http://img.shields.io/codeclimate/github/zguillez/slim_mobile_detect.svg)](https://travis-ci.org/zguillez/slim_mobile_detect)
 [![Dependency Status](https://gemnasium.com/zguillez/slim_mobile_detect.svg)](https://gemnasium.com/zguillez/slim_mobile_detect)
 [![Installs](https://img.shields.io/npm/dt/slim_mobile_detect.svg)](https://coveralls.io/r/zguillez/slim_mobile_detect)
 ![](https://reposs.herokuapp.com/?path=zguillez/slim_mobile_detect)
