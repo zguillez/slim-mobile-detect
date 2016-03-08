@@ -95,7 +95,6 @@ Write the response only on **Android** calls
 			return $response;
 		});
 		$app->run();
-	Status API Training Shop Blog About Pricing
 
 # Contributing and issues
 
