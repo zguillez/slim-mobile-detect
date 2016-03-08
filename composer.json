@@ -1,0 +1,18 @@
+{
+  "name": "zguillez/slim_mobile_detect",
+  "description": "Implements Mobile_Detect lib for Slim Framework app",
+  "keywords": [
+    "Slim",
+    "Mobile_Detect"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Guillermo de la Iglesia",
+      "email": "zguillez@gmail.com"
+    }
+  ],
+  "require": {
+    "mobiledetect/mobiledetectlib": "^2.8"
+  }
+}
