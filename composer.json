@@ -1,9 +1,12 @@
 {
-  "name": "zguillez/slim_mobile_detect",
-  "description": "Implements Mobile_Detect lib for Slim Framework app",
+  "name": "zguillez/slim-mobile-detect",
+  "description": "Implements Mobile-Detect lib for Slim Framework app",
   "keywords": [
     "Slim",
-    "Mobile_Detect"
+    "Mobile-Detect",
+    "Php",
+    "Mobile",
+    "api"
   ],
   "license": "MIT",
   "authors": [
