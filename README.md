@@ -6,7 +6,7 @@
 [![Analytics](https://ga-beacon.appspot.com/UA-1125217-30/zguillez/slim_mobile_detect?pixel)](https://github.com/igrigorik/ga-beacon)
 [![Join the chat at https://gitter.im/zguillez/slim_mobile_detect](https://badges.gitter.im/zguillez/slim_mobile_detect.svg)](https://gitter.im/zguillez/slim_mobile_detect?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Implements [Mobile_Detect](https://github.com/serbanghita/Mobile-Detect) lib for Response's write on [Slim Framework](http://www.slimframework.com/) App
+Implements [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) lib for Response's write on [Slim Framework](http://www.slimframework.com/) App
 
 ![](https://camo.githubusercontent.com/c76a63e16c7bc3ebf76cb8897d456a6aacc63053/687474703a2f2f64656d6f2e6d6f62696c656465746563742e6e65742f6c6f676f2d6769746875622e706e67)
 
@@ -14,13 +14,13 @@ Implements [Mobile_Detect](https://github.com/serbanghita/Mobile-Detect) lib for
 
 ### Add package to composer.json
 
-`composer require zguillez/slim_mobile_detect`
+`composer require zguillez/slim-mobile-detect`
 
 	//packaje.json
 	{
 	  "require": {
 	    "slim/slim": "^3.0",
-	    "zguillez/slim_mobile_detect": "^1.0.0"
+	    "zguillez/slim-mobile-detect": "^1.0.0"
 	  }
 	}
 	
