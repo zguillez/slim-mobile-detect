@@ -1,4 +1,4 @@
-# Slim\_Mobile\_Detect
+# Slim-Mobile-Detect
 
 [![Dependency Status](https://gemnasium.com/zguillez/slim_mobile_detect.svg)](https://gemnasium.com/zguillez/slim_mobile_detect)
 ![](https://reposs.herokuapp.com/?path=zguillez/slim_mobile_detect)
