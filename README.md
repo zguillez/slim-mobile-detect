@@ -1,10 +1,10 @@
 # Slim-Mobile-Detect
 
-[![Dependency Status](https://gemnasium.com/zguillez/slim_mobile_detect.svg)](https://gemnasium.com/zguillez/slim_mobile_detect)
-![](https://reposs.herokuapp.com/?path=zguillez/slim_mobile_detect)
+[![Dependency Status](https://gemnasium.com/zguillez/slim-mobile-detect.svg)](https://gemnasium.com/zguillez/slim-mobile-detect)
+![](https://reposs.herokuapp.com/?path=zguillez/slim-mobile-detect)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
-[![Analytics](https://ga-beacon.appspot.com/UA-1125217-30/zguillez/slim_mobile_detect?pixel)](https://github.com/igrigorik/ga-beacon)
-[![Join the chat at https://gitter.im/zguillez/slim_mobile_detect](https://badges.gitter.im/zguillez/slim_mobile_detect.svg)](https://gitter.im/zguillez/slim_mobile_detect?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Analytics](https://ga-beacon.appspot.com/UA-1125217-30/zguillez/slim-mobile-detect?pixel)](https://github.com/igrigorik/ga-beacon)
+[![Join the chat at https://gitter.im/zguillez/slim-mobile-detect](https://badges.gitter.im/zguillez/slim-mobile-detect.svg)](https://gitter.im/zguillez/slim-mobile-detect?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Implements [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) lib for Response's write on [Slim Framework](http://www.slimframework.com/) App
 
