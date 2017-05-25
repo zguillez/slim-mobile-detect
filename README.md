@@ -15,7 +15,7 @@ Implements [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) lib for
 
 `composer require zguillez/slim-mobile-detect`
 
-	//packaje.json
+	// composer.json
 	{
 	  "require": {
 	    "slim/slim": "^3.0",
@@ -28,6 +28,9 @@ Implements [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) lib for
 	$app->get('/hello/{name}', function ($request, $response, $args) {
 		$request  = new Slim\Http\MobileRequest($request);
 		$response = new Slim\Http\MobileResponse($response);
+		
+		// ...
+	});
 		
 # Usage
 
