@@ -1,7 +1,5 @@
 # Slim-Mobile-Detect
 
-[![Dependency Status](https://gemnasium.com/zguillez/slim-mobile-detect.svg)](https://gemnasium.com/zguillez/slim-mobile-detect)
-![](https://reposs.herokuapp.com/?path=zguillez/slim-mobile-detect)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 [![Join the chat at https://gitter.im/zguillez/slim-mobile-detect](https://badges.gitter.im/zguillez/slim-mobile-detect.svg)](https://gitter.im/zguillez/slim-mobile-detect?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
