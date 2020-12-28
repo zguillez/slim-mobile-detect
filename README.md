@@ -1,6 +1,8 @@
 # Slim-Mobile-Detect
 
+[![Analytics](https://ga-beacon.appspot.com/UA-1125217-30/zguillez/slim-mobile-detect?pixel)](https://github.com/igrigorik/ga-beacon)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
+[![Installs](https://img.shields.io/npm/dt/slim-mobile-detect.svg)](https://coveralls.io/r/zguillez/slim-mobile-detect)
 [![Join the chat at https://gitter.im/zguillez/slim-mobile-detect](https://badges.gitter.im/zguillez/slim-mobile-detect.svg)](https://gitter.im/zguillez/slim-mobile-detect?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Implements [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) lib for Response's write on [Slim Framework](http://www.slimframework.com/) App
