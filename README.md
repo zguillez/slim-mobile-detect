@@ -5,7 +5,11 @@
 [![Installs](https://img.shields.io/npm/dt/slim-mobile-detect.svg)](https://coveralls.io/r/zguillez/slim-mobile-detect)
 [![Join the chat at https://gitter.im/zguillez/slim-mobile-detect](https://badges.gitter.im/zguillez/slim-mobile-detect.svg)](https://gitter.im/zguillez/slim-mobile-detect?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Implements [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) lib for Response's write on [Slim Framework](http://www.slimframework.com/) App
+> [Zguillez](https://zguillez.io) | Guillermo de la Iglesia
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q4329UT)
+
+## Implements [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) lib for Response's write on [Slim Framework](http://www.slimframework.com/) App
 
 ![](https://camo.githubusercontent.com/c76a63e16c7bc3ebf76cb8897d456a6aacc63053/687474703a2f2f64656d6f2e6d6f62696c656465746563742e6e65742f6c6f676f2d6769746875622e706e67)
 
